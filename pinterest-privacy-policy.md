@@ -40,13 +40,3 @@ If you want data associated with your use of GlassPin deleted, contact us using 
 ## Security
 
 We use reasonable technical and organizational measures to protect information handled by the app. However, no internet-based service can guarantee complete security.
-
-## Changes to This Policy
-
-We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised "Last updated" date.
-
-## Contact
-
-For privacy questions or deletion requests, contact:
-
-your-email@example.com
